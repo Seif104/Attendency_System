@@ -26,3 +26,11 @@ The system is built using Python, a high-level programming language, and various
 - Real-time notifications for late arrivals or absences.
 - Analytics and insights on attendance trends and patterns
 - Easy to use: the system is designed to be user-friendly and does not require any specialized knowledge or training to operate.
+
+
+## Authors
+
+- [@Seif104](https://github.com/Seif104)
+- [@fatma1-a7med](https://github.com/fatma1-a7med)
+- [@AhmedBahgat010](https://github.com/AhmedBahgat010)
+
