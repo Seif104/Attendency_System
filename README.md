@@ -14,6 +14,8 @@ The system provides a user-friendly interface for administrators to manage atten
 
 The system is built using Python, a high-level programming language, and various open-source libraries and frameworks, including OpenCV for computer vision, and tkinter for GUI.
 
+![Facial Recognition](https://github.com/Seif104/Attendency_System/assets/95093813/92119688-2492-4282-945b-37dc8fac3bfc)
+
 ## Features
 
 - Face recognition: the system uses OpenCV and Python to recognize people' faces and match them to a pre-trained dataset.
