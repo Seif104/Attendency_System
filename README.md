@@ -3,6 +3,9 @@
 
 This project is an attendance management system that utilizes face recognition technology to track the presence and absence of people. The system is designed to help organizations automate their attendance tracking process and reduce errors and fraud.
 
+![Attendency](https://github.com/Seif104/Attendency_System/assets/95093813/ee42bd86-3560-467e-8684-2cde24e6baa3)
+
+
 ## Overview
 
 The attendance management system is a web-based application that uses a camera to capture images of people entering and leaving a designated area, such as a classroom or office. The system then uses face recognition technology to identify the people in the images and mark their attendance status as present or absent.
